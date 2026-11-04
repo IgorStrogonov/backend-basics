@@ -1,10 +1,11 @@
-# Backend Basics
-Учебный проект для знакомства со структурой Python-проекта.
+# Coffee Shop Orders API
+Сервис учёта заказов для кофейни, написанный на **FastAPI**. Позволяет создавать, просматривать, изменять и удалять заказы.
 
 ## Требования
-Python 3.12
+**Python 3.12**
+**FastAPI**
 
 ## Запуск
 ```bash
-python main.py
+fastapi run main.py
 ```
